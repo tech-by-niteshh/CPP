@@ -7,6 +7,7 @@ int main(){
     float c = 1.5;
     bool d = true;
     double e = 199.99;
+    long long f = 100000000000;
 }
 
 
